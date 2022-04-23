@@ -117,6 +117,7 @@ frappe.ui.SortSelector = class SortSelector {
 				{'fieldname': 'name'},
 				{'fieldname': 'creation'},
 				{'fieldname': 'idx'},
+				{'fieldname': 'planned_start_date'},
 			]
 
 			// title field
